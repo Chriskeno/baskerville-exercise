@@ -1,0 +1,191 @@
+
+body {
+        width: 45%;
+        max-width: 700px;
+        min-height: 320px;
+        font-size:  90%;
+        margin: auto;   
+        background-colour: #f0f0f0;
+        color: #333;
+        line-height: 1.6em;
+}
+
+section {padding: 1em}
+    
+.intro{
+    font-size:1.25em;}
+
+.version1 { 
+    font-family:'Georgia' serif;}
+    
+.version2 { 
+    font-family: 'Open Sans', sans-serif;}
+
+.version3 {
+    font-family: 'Antic Slab', serif; }
+    
+
+/*-------------TYPE VERSION 1-------------*/
+    
+h1, h2, h3 {
+    font-weight:500;
+    color: black;
+    }
+    
+.dropcap { 
+     float: left;
+     font-size: 4.4em;
+     line-height: 0.6;
+     margin-right: 0.05em;}
+
+.indent {
+    text-indent: 2em;}
+
+
+    
+.version1 h1 {
+    font-size: 6em;
+    margin-bottom: 0.2em;
+}
+    
+.version1 h2 {
+    font-size: 2.5em;
+    font-style:italic;
+    font-family:serif;
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+}
+    
+.version1 h3 {font-size: 1.2em;
+    text-transform: uppercase;
+    margin-bottom: -3.5em;
+padding-left: 0.5em;}
+
+.version1 .intro{
+    font-size:1.3em;
+    margin-bottom: 1.5em;
+    font-weight: 200;
+}
+    
+ .version1 blockquote { 
+    font-style: italic;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin: 0;
+    margin-top: 2em;
+}
+
+.version1 blockquote p {
+    color: darkgray;
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+    }
+
+.version1 blockquote cite {
+    color: darkgray;
+    font-size: .65em;}
+
+
+hr { 
+    border: 1px solid;
+border-color: pink;}
+
+
+
+/*-------------TYPE VERSION 2-------------*/
+
+.version2 h1 {
+    font-size: 4.6em;
+    margin-bottom: 0.6em;
+}
+
+.version2 h2 {
+    font-size: 2.1em;
+    font-style: italic;
+    margin-bottom: 1.5em;
+    font-weight: 500;
+}
+    
+.version2 h3 {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    margin-bottom: -2em;
+font-weight: bold;}
+
+.version2 .intro{
+    font-size:1.2em;
+}
+    
+ .version2 blockquote { 
+    font-style: italic;
+    font-size: 1.4em;
+    line-height: 1.5em;
+    margin: 0;    
+}
+
+.version2 p{
+color: 0f0f0f;
+font-weight: 600;
+font-size: .9em}
+
+.version2 blockquote p {
+    color: darkgray;
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+    }
+
+.version2 blockquote cite {
+    color: darkgray;
+    font-size: .65em;
+    text-transform: uppercase;
+    padding-bottom: 4em;
+}
+
+
+/*-------------TYPE VERSION 3-------------*/
+
+
+.version3 h1 {
+    font-size: 4.8em;
+    font-weight: bold;
+    margin-bottom: 0.6em;
+}
+    
+.version3 h2 {
+    font-size: 1.7em;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 1.5em;
+}
+    
+.version3 h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: -3em;}
+
+.version3 .intro{
+    font-size:1.2em;
+}
+  
+.version3 p {
+color: black;}
+
+ .version3 blockquote { 
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin: 0;
+    margin-top: 2em;
+}
+
+.version3 blockquote p {
+    color: darkgray;
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+    }
+
+.version3 blockquote cite {
+    color: darkgray;
+    font-size: .65em;}
